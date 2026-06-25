@@ -4,7 +4,6 @@ A camera-controlled musical instrument that uses hand gestures to perform and co
 
 ## Current Goals
 
-- Webcam hand tracking
 - Finger counting
 - MIDI note generation
 - Scale-aware note mapping
